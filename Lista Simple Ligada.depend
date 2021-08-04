@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1575584395 source:c:\users\hp\desktop\lista simple ligada\main.cpp
+	<iostream>
+	<cstdlib>
+	"ListaD.h"
+	"Libro.h"
+
+1575529529 source:c:\users\hp\desktop\lista simple ligada\src\libro.cpp
+	"Libro.h"
+
+1575529431 c:\users\hp\desktop\lista simple ligada\include\libro.h
+	<iostream>
+
+1575584155 source:c:\users\hp\desktop\lista simple ligada\src\listad.cpp
+	"ListaD.h"
+	<iostream>
+	<cstdlib>
+	"Libro.h"
+
+1575573996 c:\users\hp\desktop\lista simple ligada\include\listad.h
+	<iostream>
+	"Libro.h"
+
+1575584395 source:c:\users\dell\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<cstdlib>
+	"ListaD.h"
+	"Libro.h"
+
+1575573996 c:\users\dell\desktop\nueva carpeta\include\listad.h
+	<iostream>
+	"Libro.h"
+
+1575529431 c:\users\dell\desktop\nueva carpeta\include\libro.h
+	<iostream>
+
+1575529529 source:c:\users\dell\desktop\nueva carpeta\src\libro.cpp
+	"Libro.h"
+
+1575593999 source:c:\users\dell\desktop\nueva carpeta\src\listad.cpp
+	"ListaD.h"
+	<iostream>
+	<cstdlib>
+	"Libro.h"
+
+1575587995 source:c:\users\jordi\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<cstdlib>
+	"ListaD.h"
+	"Libro.h"
+
+1575577596 c:\users\jordi\desktop\nueva carpeta\include\listad.h
+	<iostream>
+	"Libro.h"
+
+1575533031 c:\users\jordi\desktop\nueva carpeta\include\libro.h
+	<iostream>
+
+1575533129 source:c:\users\jordi\desktop\nueva carpeta\src\libro.cpp
+	"Libro.h"
+
+1575597599 source:c:\users\jordi\desktop\nueva carpeta\src\listad.cpp
+	"ListaD.h"
+	<iostream>
+	<cstdlib>
+	"Libro.h"
+
